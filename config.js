@@ -8,7 +8,7 @@ const CONFIG = {
     btnIntro: 'hihi❤️',
     title: 'Làm người yêu anh nhé 🥰',
     desc: 'Khum trả lời hoặc thoát ra thì em là ngy anh đấyyy :> ',
-    btnYes: 'Thích lắm <33',
+    btnYes: 'Đồng ý lunn <33',
     btnNo: 'Không nha :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
     btnReply: 'Gửi cho bạn <3',
